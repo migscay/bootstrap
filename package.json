@@ -15,6 +15,9 @@
   },
   "dependencies": {
     "bootstrap": "^4.0.0-alpha.6",
+    "bootstrap-datepicker": "^1.7.1",
+    "bootstrap-timepicker": "^0.5.2",
+    "datetimepicker": "^0.1.38",
     "font-awesome": "^4.7.0"
   }
 }
