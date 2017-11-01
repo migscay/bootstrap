@@ -4,12 +4,7 @@ body{
 }
 
 .radio-inline {
-    padding:0px 20px 0px 0px;
-}
-
-dt,dd {
-margin-top: 1em;
-margin-bottom: 1em;
+    padding:0px 10px 0px 0px;
 }
 
 .navbar-inverse {
