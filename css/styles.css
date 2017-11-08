@@ -7,6 +7,9 @@ body{
     padding:0px 10px 0px 0px;
 }
 
+.btn-group-sm {
+    padding:0px 0px 0px 0px;
+}
 .navbar-inverse {
      background-color: #512DA8;
 }
@@ -65,4 +68,4 @@ body{
     top: 0;
     left: 0;
     min-height: 300px;
-}
+} 
