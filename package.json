@@ -6,18 +6,21 @@
   "scripts": {
     "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lite": "lite-server"
+    "lite": "lite-server",
+    "scss": "node-sass -o css/ css/"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "lite-server": "^2.2.2"
+    "lite-server": "^2.2.2",
+    "node-sass": "^4.6.0"
   },
   "dependencies": {
     "bootstrap": "^4.0.0-alpha.6",
     "bootstrap-datepicker": "^1.7.1",
     "bootstrap-timepicker": "^0.5.2",
     "datetimepicker": "^0.1.38",
-    "font-awesome": "^4.7.0"
+    "font-awesome": "^4.7.0",
+    "latest-version": "^3.1.0"
   }
 }
